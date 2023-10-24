@@ -6,12 +6,10 @@
   "zoomImages": true,
   "sidebar": [
     ["ホーム", "/"],
-    ["利用規約", "/terms-of-service"],
-    ["個人情報保護方針", "https://www.francebed.co.jp/privacy.html"],
-    ["ログイン", "/login"],
+    ["ログイン", ["ログイン", "/login"]],
     ["モニタリング", "/monitoring"],
-    ["レポート", "/report"],
-    ["アラートログ", "/alert-log"],
+    ["レポート", ["レポート", "/report"]],
+    ["アラートログ", ["アラートログ", "/alert-log"]],
     [
       "設定",
       [
@@ -27,6 +25,13 @@
         ["テーマの変更", "/settings/theme"],
         ["プッシュ通知の設定", "/settings/notifications"],
         ["ログアウト", "/settings/logout"]
+      ]
+    ],
+    [
+      "その他",
+      [
+        ["利用規約", "/other/terms-of-service"],
+        ["個人情報保護方針", "https://www.francebed.co.jp/privacy.html"]
       ]
     ]
   ],
