@@ -11,22 +11,22 @@
       "マニュアル",
       "/manual",
       [
-        ["ログイン", "/login"],
+        ["ログイン", "/manual/login"],
         [
           "設定",
-          "/settings",
-          ["フロア", "/floor"],
-          ["部屋", "/room"],
-          ["ベッド", "/bed"],
-          ["患者", "/patient"],
-          ["スタッフ", "/staff"],
-          ["端末", "/device"],
-          ["システム連携", "/system-linkage"],
-          ["表示するフロアの選択", "/visible-floors"],
-          ["センサーの設定変更", "/sensor-settings"],
-          ["テーマの変更", "/theme"],
-          ["プッシュ通知の設定", "/notifications"],
-          ["ログアウト", "/logout"]
+          "/manual/settings",
+          ["フロア", "/manual/settings/floor"],
+          ["部屋", "/manual/settings/room"],
+          ["ベッド", "/manual/settings/bed"],
+          ["患者", "/manual/settings/patient"],
+          ["スタッフ", "/manual/settings/staff"],
+          ["端末", "/manual/settings/device"],
+          ["システム連携", "/manual/settings/system-linkage"],
+          ["表示するフロアの選択", "/manual/settings/visible-floors"],
+          ["センサーの設定変更", "/manual/settings/sensor-settings"],
+          ["テーマの変更", "/manual/settings/theme"],
+          ["プッシュ通知の設定", "/manual/settings/notifications"],
+          ["ログアウト", "/manual/settings/logout"]
         ]
       ]
     ]
