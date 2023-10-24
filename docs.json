@@ -9,12 +9,10 @@
     ["個人情報保護方針", "https://www.francebed.co.jp/privacy.html"],
     [
       "マニュアル",
-      "/manual",
       [
         ["ログイン", "/manual/login"],
         [
           "設定",
-          "/manual/settings",
           [
             ["フロア", "/manual/settings/floor"],
             ["部屋", "/manual/settings/room"],
