@@ -7,27 +7,25 @@
     ["ホーム", "/"],
     ["利用規約", "/terms-of-service"],
     ["個人情報保護方針", "https://www.francebed.co.jp/privacy.html"],
+    ["ログイン", "/login"],
+    ["モニタリング", "/monitoring"],
+    ["レポート", "/report"],
+    ["アラートログ", "/alert-log"],
     [
-      ["ログイン", "/login"],
-      ["モニタリング", "/monitoring"],
-      ["レポート", "/report"],
-      ["アラートログ", "/alert-log"],
+      "設定",
       [
-        "設定",
-        [
-          ["フロア", "/settings/floor"],
-          ["部屋", "/settings/room"],
-          ["ベッド", "/settings/bed"],
-          ["患者", "/settings/patient"],
-          ["スタッフ", "/settings/staff"],
-          ["端末", "/settings/device"],
-          ["システム連携", "/settings/system-linkage"],
-          ["表示するフロアの選択", "/settings/visible-floors"],
-          ["センサーの設定変更", "/settings/sensor-settings"],
-          ["テーマの変更", "/settings/theme"],
-          ["プッシュ通知の設定", "/settings/notifications"],
-          ["ログアウト", "/settings/logout"]
-        ]
+        ["フロア", "/settings/floor"],
+        ["部屋", "/settings/room"],
+        ["ベッド", "/settings/bed"],
+        ["患者", "/settings/patient"],
+        ["スタッフ", "/settings/staff"],
+        ["端末", "/settings/device"],
+        ["システム連携", "/settings/system-linkage"],
+        ["表示するフロアの選択", "/settings/visible-floors"],
+        ["センサーの設定変更", "/settings/sensor-settings"],
+        ["テーマの変更", "/settings/theme"],
+        ["プッシュ通知の設定", "/settings/notifications"],
+        ["ログアウト", "/settings/logout"]
       ]
     ]
   ],
