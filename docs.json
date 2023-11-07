@@ -12,7 +12,7 @@
     [
       "レポート",
       [
-        ["レポート", "/report"],
+        ["レポート", "/report/chart"],
         ["テーブル", "/report/table"],
         ["PDF", "/report/pdf"]
       ]
