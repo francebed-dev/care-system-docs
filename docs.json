@@ -8,7 +8,13 @@
   "sidebar": [
     ["ホーム", "/"],
     ["ログイン", "/login"],
-    ["モニタリング", "/monitoring"],
+    [
+      "モニタリング",
+      [
+        ["モニタリング", "/monitoring/monitoring"],
+        ["患者の詳細", "/monitoring/detail"]
+      ]
+    ],
     [
       "レポート",
       [
